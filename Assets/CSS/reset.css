@@ -18,38 +18,6 @@ body {
     color: #000;
 }
 
-/* Tema Escuro */
-body.dark-theme {
-    background: linear-gradient(#1C1E1F 0%, #1C1E1F 15%, #1C1E1F 45%, #051119 100%) no-repeat;
-    color: #fff;
-}
-
-body.dark-theme .cabecalho {
-    background-color: #1C1E1F;
-}
-
-body.dark-theme .settings-menu {
-    background-color: #051119;
-}
-
-body.dark-theme .settings-menu button {
-    background-color: #051119;
-    color: #fff;
-}
-
-body.dark-theme .btn-scroll {
-    background-color: #00000067;
-    box-shadow: 0 2px 5px black;
-}
-
-body.dark-theme .btn-scroll li a img {
-    filter: invert(0.8);
-}
-
-body.dark-theme .btn-scroll li a img:hover {
-    filter: invert(1);
-}
-
 a {
     text-decoration: none;
     color: white;
