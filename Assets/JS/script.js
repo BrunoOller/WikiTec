@@ -1,3 +1,5 @@
+new window.VLibras.Widget('https://vlibras.gov.br/app');
+
 // Tamanhos de fonte mínimo e máximo
 const MIN_FONT_SIZE = 12;
 const MAX_FONT_SIZE = 24;
